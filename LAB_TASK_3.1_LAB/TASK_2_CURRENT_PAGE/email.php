@@ -1,7 +1,7 @@
 
 <html>
 <head>
-    <title>HTML Form -Email</title>
+    <title>EMAIL</title>
 </head>
 <body>
     
