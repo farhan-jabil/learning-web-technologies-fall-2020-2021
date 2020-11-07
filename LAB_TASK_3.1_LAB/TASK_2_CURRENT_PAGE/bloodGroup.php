@@ -1,7 +1,7 @@
 
 <html>
 <head>
-    <title>HTML Form -Blood Group</title>
+    <title>BLOOD GROUP</title>
 </head>
 <body>
 
