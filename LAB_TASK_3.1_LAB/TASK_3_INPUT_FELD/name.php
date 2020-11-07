@@ -20,7 +20,7 @@
 </head>
 <body>	
     	
-    <form method="post">
+    <form method="post" action="name.php">
         
         <fieldset style="font-family:Calibri;width:200px;height:100px">
             
